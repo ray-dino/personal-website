@@ -1,0 +1,12 @@
+{
+	"handlers" : [
+		{
+			"path": "",
+			"handler": "com.eqela.sympathy.libcommonhandler.DirectoryHandler",
+            "settings": {
+                "content_dir": "home",
+            }
+			
+		},
+	]
+}
